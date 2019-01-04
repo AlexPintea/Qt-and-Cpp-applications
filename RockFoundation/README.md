@@ -1,3 +1,3 @@
 # RockFoundation
 
-Song Maker made in C++.
+Lyrics Maker made in C++.
